@@ -3,4 +3,6 @@ Matrícula:
 Nome:
 e-mail:
 Telefone:
+CPF:
+Data de Nascimento:
 Disciplinas que leciona:
